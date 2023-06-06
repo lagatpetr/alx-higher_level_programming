@@ -5,10 +5,10 @@
 
 /**
  * struct listint_s - singly linked list
- * @n: int
+ * @n: integer
  * @next: points to the next node
  *
- * Descip: singly linked list node structure
+ * Description: singly linked list node structure
  * for Holberton project
  */
 typedef struct listint_s
