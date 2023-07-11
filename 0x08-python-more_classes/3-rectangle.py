@@ -93,4 +93,4 @@ class Rectangle:
             representation by concatenating the appropriate number of '#'...
             characters for each row.."""
             rectangle_str += "#" * self.__width + "\n"
-        return rectangle_str[:-1]
+            return rectangle_str[:-1]
